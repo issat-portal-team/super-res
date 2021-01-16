@@ -1,0 +1,11 @@
+jupyter
+Pillow
+numpy==1.19.3
+matplotlib
+opencv-python
+Keras
+scipy
+scikit-learn
+tensorflow
+Pool
+tqdm
